@@ -1,7 +1,5 @@
 # Data Engineering Spark
-This is ITVersity repository to provide appropriate single node hands on lab for students to learn skills such as Python, SQL, Hadoop, Hive, and Spark. This is extensively used as part of our Udemy courses as well as our upcoming guided programs. You can also use our [state-of-the-art](https://labs.itversity.com) multi-node Hadoop and Spark lab.
 
-## Udemy Courses
 
 This GitHub repository can be leveraged to setup Single Node Hadoop and Spark Cluster along with Jupyterlab and Postgres to learn Python, SQL, Hadoop, Hive, and Spark which are covered as part of the below Udemy courses. They are available at a max of $25 and we provide $10 coupons 3 times every month. Also, these courses are part of Udemy for business.
 * [Data Engineering Essentials Hands-on - Python, SQL, and Spark](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/?referralCode=EEF55B4668DA42F6154D)
